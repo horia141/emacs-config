@@ -1,0 +1,5 @@
+# Emacs backup files.
+*~
+
+# Anything containing .DS_Store
+.DS_Store
